@@ -20,4 +20,4 @@ bond.trading.system.project(魏翔宇).xls文件中已经加载了所有数据�
 测试可以将所有数据和图表删除后，重新导入数据，并点击按钮查看结果。
 
 
-If in need, Please see Sheet1.cls and Sheet2.cls to view the Visual Basic Code.
+If in need, please see Sheet1.cls and Sheet2.cls to view the Visual Basic Code.
